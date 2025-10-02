@@ -23,7 +23,7 @@ Kiri comes with **light & dark themes**, thoughtful typography, and modern blog 
 
 ## 🚀 Preview
 
-![Kiri Screenshot](./public/images/kiri.png)  
+![Kiri Screenshot](./screenshot.png)  
 *Minimal design, thoughtful details, and a space built for writing.*
 
 Deployed with [Vercel](https://vercel.com) at [kiri-ten.vercel.app](https://kiri-ten.vercel.app/)
