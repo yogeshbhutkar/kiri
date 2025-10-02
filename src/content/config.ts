@@ -8,7 +8,6 @@ const postsCollection = defineCollection({
 			tags: z.array(z.string()),
 			author: z.string(),
 			avatar: image(),
-			featured: z.boolean().default(false),
 			excerpt: z.string().optional(),
 			publishedDate: z.date().transform((date) =>
 				date.toLocaleDateString(undefined, {
