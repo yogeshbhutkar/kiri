@@ -117,3 +117,9 @@ Kiri gives you a simple foundation that grows with you.
 ## ✨ Want a feature?
 
 Feel free to open an issue or submit a pull request on GitHub. Contributions are welcome!
+
+---
+
+## ❤️ Like Kiri?
+
+If you find Kiri useful, please give it a ⭐ on GitHub! It helps others discover the project and motivates me to keep improving it. Thank you!
