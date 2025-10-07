@@ -87,6 +87,22 @@ const {
 			content={new URL(image, Astro.url)}
 		/>
 
+		<!-- PRELOADS -->
+		<link
+			rel="preload"
+			href="/fonts/island-moments.woff2"
+			as="font"
+			type="font/woff2"
+			crossorigin
+		/>
+		<link
+			rel="preload"
+			href="/fonts/outfit.woff2"
+			as="font"
+			type="font/woff2"
+			crossorigin
+		/>
+
 		<!-- ASTRO CLIENT ROUTER -->
 		<ClientRouter />
 	</head>
